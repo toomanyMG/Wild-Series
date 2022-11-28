@@ -1,0 +1,14 @@
+$primary: #FFAA2C;
+$white: #F6F6F6;
+$dark: #0A0909;
+
+
+
+$theme-colors: (
+  "primary": $primary,
+  "dark": $dark,
+  "white": $white,
+);
+
+
+@import "~bootstrap/scss/bootstrap";
